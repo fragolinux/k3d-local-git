@@ -1,1 +1,1 @@
-k3d-local-git
+Full setup of a Kubernetes K3D cluster managed by Flux on a local git server
